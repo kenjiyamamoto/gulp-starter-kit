@@ -5,9 +5,6 @@ If you want to know how to build that kind of startet kit you can watch the YouT
 ## Usage
 
 ### 1. Clone repo
-```
-git clone https://github.com/marcinkrzeminski/gulp-starter-kit.git
-```
 
 ### 2. Go inside cloned repo
 ```
